@@ -1,6 +1,5 @@
 .idea/
 __pycache__/
-*.ipynb_checkpoints/
 merge_results.py
 check_results.py
 split_data.py
